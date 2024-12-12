@@ -1,3 +1,4 @@
+This is a very simple program, it does peice specific moves, but only the basic and pawn two tile move from a starting position. There are no turning pawns in to other peices and no win conditions.</br>
 Position:</br>
 a8 b8 c8 d8 e8 f8 g8 h8</br>
 a7 b7 c7 d7 e7 f7 g7 h7</br>
